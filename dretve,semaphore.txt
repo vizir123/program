@@ -1,4 +1,0 @@
-﻿1>------ Build started: Project: dretve, Configuration: Debug Any CPU ------
-1>G:\ossssssssss\ThreadingPrimjer\ThreadingPrimjer\Program.cs(91,22,91,31): warning CS0219: The variable 'locktaken' is assigned but its value is never used
-1>  dretve -> G:\ossssssssss\ThreadingPrimjer\ThreadingPrimjer\bin\Debug\ThreadingPrimjer.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
